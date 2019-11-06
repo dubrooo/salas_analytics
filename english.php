@@ -6,14 +6,21 @@
     <meta name="keywords" content="accommodation, active tourism, traditional music, food, bike routes">
     <meta name="robots" content="index, follow">
     <meta name="author" content="Nenad Vojnic, Dubravko Bilinovic">
-    <title>KÁTAI FARM"</title>
+    <title>KÁTAI FARM en"</title>
     <link type="text/css" rel="stylesheet" href="magyar.css">
+	
+	<meta property="og:url"                content="" />
+    <meta property="og:type"               content="article" />
+    <meta property="og:title"              content="KÁTAI FARM" />
+    <meta property="og:description"        content="Experience amazing summer camps, at Kátai farm" />
+    <meta property="og:image"              content="https://i1.wp.com/katai.rs/wp-content/uploads/2019/08/67737881_2581005651961515_1589811689694429184_n.jpg?w=960" />
+	
 </head>
 
 <body>
 <!--first div-->
 <div class="heading">
-    KÁTAI FARM
+    KÁTAI FARM - STUDENT PROJECT
 </div>
 
 <!--navigation bar-->

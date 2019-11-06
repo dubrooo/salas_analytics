@@ -6,14 +6,21 @@
     <meta name="keywords" content="accommodation, active tourism, traditional music, food, bike routes">
     <meta name="robots" content="index, follow">
     <meta name="author" content="Nenad Vojnic, Dubravko Bilinovic">
-    <title>KÁTAI FARM"</title>
+    <title>KÁTAI FARM hu"</title>
     <link type="text/css" rel="stylesheet" href="magyar.css">
+	
+	<meta property="og:url"                content="" />
+    <meta property="og:type"               content="article" />
+    <meta property="og:title"              content="KÁTAI FARM" />
+    <meta property="og:description"        content="Experience amazing summer camps, at Kátai farm" />
+    <meta property="og:image"              content="https://i1.wp.com/katai.rs/wp-content/uploads/2019/08/67737881_2581005651961515_1589811689694429184_n.jpg?w=960" />
+	
 </head>
 
 <body>
 <!--first div-->
 <div class="heading">
-    KÁTAI FARM
+    KÁTAI FARM - STUDENT PROJECT
 </div>
 
 <!--navigation bar-->
@@ -25,7 +32,7 @@
     <div class="link9"><a href="magyar.php">MAGYAR</a></div>
     <div class="link8"><a href="srpski.php">SRPSKI</a></div>
     <div class="link7"><a href="english.php">ENGLISH</a></div>
-    <div class="link6"><a href="deutsch.php>DEUTSCH</a></div>
+    <div class="link6"><a href="deutsch.php">DEUTSCH</a></div>
     <div class="link5"><a href="archive.php">ARCHIVE</a></div>
     <div class="link4"><a href="http://katai.rs/video/">VIDEO</a></div>
     <div class="link3"><a href="http://katai.rs/media/">MEDIA</a></div>
