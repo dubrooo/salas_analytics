@@ -9,11 +9,21 @@
     <title>KÁTAI FARM - contact"</title>
     <link type="text/css" rel="stylesheet" href="magyar.css">
 	
-	<meta property="og:url"                content="" />
+	<meta property="og:url"                content="http://kataisalas.educationhost.cloud/index.php?fbclid=IwAR2Ln7hPe67AOYi_x4NU6sUUg1_grBB_zbtDDUGsLOT_PxemPuS-0i7iqAI" />
     <meta property="og:type"               content="article" />
     <meta property="og:title"              content="KÁTAI FARM" />
     <meta property="og:description"        content="Experience amazing summer camps, at Kátai farm" />
     <meta property="og:image"              content="https://i1.wp.com/katai.rs/wp-content/uploads/2019/08/67737881_2581005651961515_1589811689694429184_n.jpg?w=960" />
+	
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-151670396-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-151670396-1');
+</script>
 	
 </head>
 
