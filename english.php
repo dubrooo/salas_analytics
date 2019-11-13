@@ -58,7 +58,7 @@
 
 <!--second div-->
 <div class="id2">
-    <img src="pictures/magyar.jpg" alt=""><br><br>
+    <img src="pictures/magyar.jpg" alt="Katai farm"><br><br>
 
     The Katai Tanya is some 1.5 kilometers away from the village centre. The capacity of the Tanya is eighty beds.
     Our guest can choose from one of the fifteen rooms available (doubles, and dorms of four, six and eight beds).

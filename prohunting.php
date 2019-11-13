@@ -57,7 +57,7 @@
 
 <!--second div-->
 <div class="id2">
-    <img src="pictures/prohunting.jpg" alt=""><br><br>
+    <img src="pictures/prohunting.jpg" alt="hunter"><br><br>
 </div>
 
 <!--footer and addresses-->

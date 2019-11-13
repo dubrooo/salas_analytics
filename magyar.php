@@ -57,7 +57,7 @@
 
 <!--second div-->
 <div class="id2">
-    <img src="pictures/magyar.jpg" alt=""><br><br>
+    <img src="pictures/magyar.jpg" alt="Katai farm"><br><br>
 
     A Kátai Tanya 1995 óta működik és mára 80 fő elszállásolására alkalmas (2, 4, 6 vagy 8 ágyas szobákban).
     A két ebédlő közel 180 férőhelyes. A tanya területén található még egy amfiteátrum, mely konferenciák

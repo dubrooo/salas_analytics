@@ -57,7 +57,7 @@
 
 <!--second div-->
 <div class="id2">
-    <img src="pictures/magyar.jpg" alt=""><br><br>
+    <img src="pictures/magyar.jpg" alt="Katai farm"><br><br>
 
     Salaš Katai je počeo sa radom 1995. godine i danas može da obezbedi prenoćište za osamdesetoro gostiju.
     Sobe su sa 2, 4, 5 ili 8 kreveta. Dve prostrane trpezarije mogu da posluže 180 gostiju. Na prostoru salaša

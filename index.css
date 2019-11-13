@@ -9,29 +9,21 @@ body{
 }
 
 .heading{ /* heading above navigation bar */
-    float: left;
     display: block;
-    padding: 15px;
-    margin-right: 20px;
-    margin-left: 20px;
-    font-size: 58px;
+    font-size: 24px;
+    margin: 0 auto;
     font-weight: 100;
-
     text-align: center;
-    width: 100%;
+    width: 90%;
     color: #444B54;
     letter-spacing: 6px;
 }
 
 .navbar{ /* navigation bar */
-    display: block;
+    display: grid;
+    grid-template-columns: 33.33% 33.33% 33.33%;
     text-align: center;
-    vertical-align: center;
-    /*top: 50px;*/
-    /*height: 100px;*/
-    /*width: 100%;*/
-    margin-left: 80px;
-    margin-right: 80px;
+
 }
 
 hr{
@@ -44,7 +36,7 @@ hr{
     display: inline;
     /*position:absolute;*/
     /*width: 100%;*/
-    margin: 40px;
+    /*margin: 40px;*/
     /*margin-left: 40px;*/
     /*margin-right: 40px;*/
     /*padding-top: 60px;*/

@@ -58,9 +58,9 @@
 
 <!--second div-->
 <div class="id2">
-    <img src="pictures/archive.jpg" alt=""><br><br>
-    <img src="pictures/archive2.jpg" alt=""><br><br>
-    <img src="pictures/archive3.jpg" alt=""><br><br>
+    <img src="pictures/archive.jpg" alt="old article"><br><br>
+    <img src="pictures/archive2.jpg" alt="old article"><br><br>
+    <img src="pictures/archive3.jpg" alt="old article"><br><br>
 </div>
 
 <!--footer and addresses-->

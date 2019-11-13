@@ -57,8 +57,8 @@
 
 <!--second div-->
 <div class="id2">
-    <img src="pictures/kontakt.png" alt=""><br><br>
-    <img src="pictures/kontakt2.png" alt=""><br><br>
+    <img src="pictures/kontakt.png" alt="contact info"><br><br>
+    <img src="pictures/kontakt2.png" alt="contact info"><br><br>
 </div>
 
 <!--footer and addresses-->

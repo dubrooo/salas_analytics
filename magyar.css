@@ -60,11 +60,11 @@ hr{
 }
 a{
     text-decoration: none;
-    text-color: #000000;
+    text-decoration-color: #000000;
 }
 a:hover{
     text-decoration: none;
-    text-color: #000000;
+    text-decoration-color: #000000;
 }
 
 /* second div */

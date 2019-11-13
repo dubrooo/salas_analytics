@@ -1,2 +1,4 @@
-User-agent: Googlebot
-Disallow:
+User-agent: *
+Disallow: /
+
+sitemap: "http://kataisalas.educationhost.cloud/index.php?fbclid=IwAR07SSEv3eDbjjBJg3EctkZTcdTyzBzZANgYhHWDXJGegTzg5-CFUu0p3zE/sitemap.xml"

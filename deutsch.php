@@ -57,7 +57,7 @@
 
 <!--second div-->
 <div class="id2">
-    <img src="pictures/magyar.jpg" alt=""><br><br>
+    <img src="pictures/magyar.jpg" alt="Katai farm"><br><br>
 
     Die „Kátai Tanya” Herberge besteht seit 1996. Es ist möglich die Unterkunft von 80 Personen (Zwei-, Vier-
     und Achtbettenzimmer) Die zwei Speisesaale haben die Kapazität für 180 Personen. Ein Amphitheatrum für 200
