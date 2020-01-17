@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="description" content="traditional house">
+    <meta name="description" content="Visiting us, you can enjoy various programs organized on spot, such as horse carriage rides, teamgames, walks in nature">
     <meta name="keywords" content="accommodation, active tourism, traditional music, food, bike routes">
     <meta name="robots" content="index, follow">
     <meta name="author" content="Nenad Vojnic, Dubravko Bilinovic">
@@ -56,10 +56,17 @@
 
 
 <!--second div-->
-<div class="id2">
-    <img src="pictures/kontakt.png" alt="contact info"><br><br>
+<div class="id2_1">
+    <p>
+    e-mail: info@katai.rs<br>
+    tel: 024/731-222<br>
+    tel: +381 62 8338 545<br>
+    </p>
+</div>
+<div class="id2_2">
     <img src="pictures/kontakt2.png" alt="contact info"><br><br>
 </div>
+
 
 <!--footer and addresses-->
 <div class="footer">

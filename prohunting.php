@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="description" content="traditional house">
+    <meta name="description" content="Visiting us, you can enjoy various programs organized on spot, such as horse carriage rides, teamgames, walks in nature">
     <meta name="keywords" content="accommodation, active tourism, traditional music, food, bike routes">
     <meta name="robots" content="index, follow">
     <meta name="author" content="Nenad Vojnic, Dubravko Bilinovic">
